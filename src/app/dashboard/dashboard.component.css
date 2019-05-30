@@ -1,0 +1,22 @@
+.nav-link i  {
+  margin-right: 8px;
+  height: 17.6px;
+  width: 30px;
+}
+.example-container {
+
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.example-sidenav-content {
+  display: flex;
+  height: 100%;
+
+}
+
+.example-sidenav {
+  padding: 20px;
+}
+.sidenav-list button mat-raised-button{
+  margin: 0px,11px;
+}
